@@ -1,6 +1,13 @@
 ---
-title: Welcome to Quartz
+title: home
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+# Honours Mathematics and Computer Science
+
+In progress.
+
+---
+
+* [[Math]]
+* [[CS]]
+* [[Projects]]
