@@ -7,7 +7,7 @@ WIP!
 Pre-sorting makes designing the algorithm substantially easier.
 
 ```lua
-Algorithm ergeHull(S):
+Algorithm MergeHull(S):
 	if |S| <= 2:
 		return "Trivial"
 	else:
