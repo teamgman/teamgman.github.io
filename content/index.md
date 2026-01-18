@@ -1,8 +1,8 @@
 ---
-title: home
+title: HOME
 ---
 
-# Honours Mathematics and Computer Science
+Studying Honours Mathematics and Computer Science 
 
 In progress.
 
