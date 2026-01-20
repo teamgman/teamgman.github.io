@@ -7,7 +7,7 @@ Studying Honours Mathematics and Computer Science
 In progress.
 
 ---
-- [[merge-hull-algorithm]]
+- [[merge-hull-algorithm|The Convex Hull Problem]]
 * [[Math]]
 * [[CS]]
 * [[Projects]]
