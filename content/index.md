@@ -10,4 +10,5 @@ In progress.
 - [[merge-hull-algorithm|The Convex Hull Problem]]
 * [[Math]]
 * [[CS]]
-* [[Projects]]
+* [[technical-notes]]
+* 
