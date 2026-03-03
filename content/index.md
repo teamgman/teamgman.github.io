@@ -11,4 +11,3 @@ In progress.
 * [[Math]]
 * [[CS]]
 * [[technical-notes]]
-* 
