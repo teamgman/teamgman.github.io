@@ -7,4 +7,4 @@ In progress.
 
 ---
 - [[merge-hull-algorithm|Merge Hull Algorithm]]
-- [[technical-notes|Technical Notes]]
+- [[technical-notes/index|Technical Notes]]
