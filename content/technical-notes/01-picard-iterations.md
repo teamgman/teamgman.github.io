@@ -5,4 +5,4 @@ aliases:
   - 01 ; ODEs ; Picard Iteration ; Cauchy-Lipschitz
 ---
 **2026-01-26**
-![[note-01-picard-iterations.png]]
+![[technical-notes/attachments/01-picard-iterations.png]]
