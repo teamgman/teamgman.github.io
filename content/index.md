@@ -1,13 +1,10 @@
 ---
-title: HOME
+title: index
 ---
-
-Studying Honours Mathematics and Computer Science 
+Studying Honours Mathematics and Computer Science
 
 In progress.
 
 ---
-- [[merge-hull-algorithm|The Convex Hull Problem]]
-* [[Math]]
-* [[CS]]
-* [[technical-notes]]
+- [[content/merge-hull-algorithm|Merge Hull Algorithm]]
+* [[content/technical-notes|Technical Notes]]
