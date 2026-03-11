@@ -18,11 +18,14 @@ ALGORITHM LazyDeleteMin(k,n)
 ```
 
 The challenge is to implement a non-lazy delete algorithm which still runs in $O(\log n)$. Idea is instead to replace the node with the last leaf in the tree. Count represents current number of items while n represents structural offset.
+
+The idea is to replace the winner node with the last node because it does not require shifting any other nodes — It is at the end.
+
 ```lua
 ALGORITHM DeleteMin(k, n)
 	winner_idx = p[1]
 	min_val = key[winner_idx]
-	last_leaf_idx = n + count -1
+	last_leaf_idx = n + count - 1
 	if winner_idx != last_leaf_idx:
 		key[winner_idx] = key[last_leaf_idx]
 		Update(winner_idx, key[winner_idx])
@@ -33,7 +36,7 @@ ALGORITHM DeleteMin(k, n)
 	return min_val
 ```
 
-We don't actually physically delete the node but by decreasing count, we will not access it and by performing update it will remove all pointers to the old last leaf.
+We don't actually physically delete the last leaf but by decreasing count, we will not access it and by performing update it will remove all pointers to the old last leaf.
 
 **Further Reading:**
 - [Tournament Trees](https://www.geeksforgeeks.org/dsa/tournament-tree-and-binary-heap/)
