@@ -1,15 +1,15 @@
 ---
-title: 07; DSA; Non-lazy deletion for tournament trees.
+title: 07 ; DSA ; Non-lazy deletion in tournament trees.
 created: 2026-02-28
 aliases:
-  - 07; DSA; Non-lazy deletion for tournament trees.
+  - 07 ; DSA ; Non-lazy deletion in tournament trees.
 ---
 
 > [!NOTE]
 > p[i] represents a pointer to the winner.
 > Update(i, k) updates the tree to adjust to new key k at leaf node i.
 
-```lua
+```python
 ALGORITHM LazyDeleteMin(k,n)
 	winner = p[1] // the key of the winner
 	min_val = key[winner]
@@ -21,7 +21,7 @@ The challenge is to implement a non-lazy delete algorithm which still runs in $O
 
 The idea is to replace the winner node with the last node because it does not require shifting any other nodes — It is at the end.
 
-```lua
+```python
 ALGORITHM DeleteMin(k, n)
 	winner_idx = p[1]
 	min_val = key[winner_idx]
@@ -37,6 +37,3 @@ ALGORITHM DeleteMin(k, n)
 ```
 
 We don't actually physically delete the last leaf but by decreasing count, we will not access it and by performing update it will remove all pointers to the old last leaf.
-
-**Further Reading:**
-- [Tournament Trees](https://www.geeksforgeeks.org/dsa/tournament-tree-and-binary-heap/)
