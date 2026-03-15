@@ -4,10 +4,10 @@ title: Technical Notes
 ---
 - [[technical-notes/001-picard-iterations|001 ; ODEs ; Picard Iteration & Cauchy-Lipschitz]]
 - [[technical-notes/002-maximal-interval|002 ; ODEs ; Maximal Interval of Existence]]
-- [[technical-notes/003-sweepline-algorithm-circles|003 ; DSA ; Overlap detection with sweep line algorithm]]
-- [[technical-notes/004-red-black-tree-construction|004 ; DSA ; Linear-time RBT construction from sorted list]]
+- [[technical-notes/003-sweepline-algorithm-circles|003 ; DSA ; Overlap Detection with Sweep Line Algorithm]]
+- [[technical-notes/004-red-black-tree-construction|004 ; DSA ; Linear-time RBT Construction from Sorted List]]
 - [[technical-notes/005-red-black-tree-bounds|005 ; DSA ; Upper Bounds on Red Nodes in a Red-Black tree]]
-- [[technical-notes/006-matrix-pencils-invertibility|006 ; LinAlg ; Non-invertibility of 2x2 matrix pencils]]
+- [[technical-notes/006-matrix-pencils-invertibility|006 ; LinAlg ; Non-invertibility of 2x2 Matrix Pencils]]
 - [[technical-notes/007-tournament-trees-non-lazy|007 ; DSA ; Non-lazy Deletion in Tournament Trees.]]
 - [[technical-notes/008-transpose-operator-diagonalizability|008 ; LinAlg ; Diagonalizability of the Transpose Map across Field Characteristics]]
 - [[technical-notes/009-invariance-characteristic-polynomial|009 ; LinAlg ; Invariance of Characteristic Polynomials Under Conjugation.]]
@@ -18,3 +18,4 @@ title: Technical Notes
 - [[technical-notes/014-extension-closure|014 ; Analysis ; Cauchy Sequences and Functions on the Closure]]
 - [[technical-notes/015-matrix-dual-basis|015 ; LinAlg ; Invertibility of the Linear Functionals of a Dual Basis.]] 
 - [[technical-notes/016-diagonalizable-reflection|016 ; LinAlg ; Diagonalizability of Reflection]]
+- 

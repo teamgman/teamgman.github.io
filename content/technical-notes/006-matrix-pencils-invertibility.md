@@ -1,9 +1,9 @@
 ---
-title: 006 ; LinAlg ; Non-invertibility of 2x2 matrix pencils
+title: 006 ; LinAlg ; Non-invertibility of 2x2 Matrix Pencils
 created: 2026-02-25
 draft: true
 aliases:
-  - 006 ; LinAlg ; Non-invertibility of 2x2 matrix pencils
+  - 006 ; LinAlg ; Non-invertibility of 2x2 Matrix Pencils
 ---
 
 > [!PROOF]
