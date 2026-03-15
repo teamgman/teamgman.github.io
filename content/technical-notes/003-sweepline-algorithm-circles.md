@@ -1,9 +1,9 @@
 ---
-title: 03 ; DSA ; Overlap detection with sweep line algorithm
+title: 003 ; DSA ; Overlap detection with sweep line algorithm
 created: 2026-02-10
 draft: true
 aliases:
-  - 03 ; DSA ; Overlap detection with sweep line algorithm
+  - 003 ; DSA ; Overlap detection with sweep line algorithm
 ---
 
 > [!ABSTRACT]

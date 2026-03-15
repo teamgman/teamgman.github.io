@@ -1,8 +1,8 @@
 ---
-title: 07 ; DSA ; Non-lazy deletion in tournament trees.
+title: 007 ; DSA ; Non-lazy Deletion in Tournament Trees.
 created: 2026-02-28
 aliases:
-  - 07 ; DSA ; Non-lazy deletion in tournament trees.
+  - 007 ; DSA ; Non-lazy Deletion in Tournament Trees.
 ---
 
 > [!NOTE]
