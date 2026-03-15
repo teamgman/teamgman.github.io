@@ -1,7 +1,7 @@
 ---
-title: 016 ;  LinAlg ; Diagonalizability of Reflection
+title: 016 ; LinAlg ; Diagonalizability of Reflection
 aliases:
-  - 016 ;  LinAlg ; Diagonalizability of Reflection
+  - 016 ; LinAlg ; Diagonalizability of Reflection
 created: 2026-03-09
 ---
 >[!Proof]

@@ -16,4 +16,5 @@ title: Technical Notes
 - [[technical-notes/012-fixed-points-compact-spaces|012 ; Analysis ; Fixed Points on Compact Spaces]]
 - [[technical-notes/013-matrix-geometric-series|013 ; Analysis ; Geometric Series with Matrix Norm]]
 - [[technical-notes/014-extension-closure|014 ; Analysis ; Cauchy Sequences and Functions on the Closure]]
-- [[]]
+- [[technical-notes/015-matrix-dual-basis|015 ; LinAlg ; Invertibility of the Linear Functionals of a Dual Basis.]] 
+- [[technical-notes/016-diagonalizable-reflection|016 ; LinAlg ; Diagonalizability of Reflection]]
