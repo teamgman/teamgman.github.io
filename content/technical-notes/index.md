@@ -18,4 +18,8 @@ title: Technical Notes
 - [[technical-notes/014-extension-closure|014 ; Analysis ; Cauchy Sequences and Functions on the Closure]]
 - [[technical-notes/015-matrix-dual-basis|015 ; LinAlg ; Invertibility of the Linear Functionals of a Dual Basis.]] 
 - [[technical-notes/016-diagonalizable-reflection|016 ; LinAlg ; Diagonalizability of Reflection]]
+- [[technical-notes/017-homogenous-linear-system|017 ; ODEs ; Homogenous First-Order Linear Systems]]
+- [[technical-notes/018-defective-linear-system|018 ; ODEs ; Homogenous Defective First-order Linear System]]
+- [[technical-notes/019-non-exact-equations|019 ; ODEs ;  Solving Non-exact Differential Equations]]
+- [[technical-notes/020-first-linear-ode-bounded|020 ; ODEs ; Solving First-order Linear Equations]]
 - 
