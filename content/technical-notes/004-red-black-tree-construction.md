@@ -1,7 +1,6 @@
 ---
 title: 004 ; DSA ; Linear-time RBT Construction from Sorted List
 created: 2026-02-16
-draft: true
 aliases:
   - 004 ; DSA ; Linear-time RBT Construction from Sorted List
 ---
