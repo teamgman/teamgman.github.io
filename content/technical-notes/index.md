@@ -1,6 +1,8 @@
 ---
 created: 2026-02-02
 title: Technical Notes
+aliases:
+  - Technical Notes
 ---
 - [[technical-notes/001-picard-iterations|001 ; ODEs ; Picard Iteration ; Cauchy-Lipschitz]]
 - [[technical-notes/002-maximal-interval|002 ; ODEs ; Maximal Interval of Existence]]

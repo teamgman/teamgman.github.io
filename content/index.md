@@ -16,3 +16,6 @@ Below, you will find a growing digital archive of my technical notes, algorithm 
 ---
 - [[merge-hull-algorithm|Merge Hull Algorithm]]
 - [[technical-notes/index|Technical Notes]]
+- [[conformal-prediction/index|Conformal Prediction Notes]]
+- [Conformal Prediction Visualizers](https://gavinxiong.com/conformal-prediction-visualizers/)
+- 
