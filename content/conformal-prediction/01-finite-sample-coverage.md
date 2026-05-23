@@ -16,9 +16,8 @@ To satisfy your safety constraint, you set up the inequality:
 $$\frac{k}{n+1} \ge 1 - \alpha$$
 Solve for $k$:
 $$k \ge (1 - \alpha)(n + 1)$$
-We then take the ceiling as $k$ must be an integer giving us: $$
-k=\lceil (1-\alpha)(n+1) \rceil
-$$
+We then take the ceiling as $k$ must be an integer giving us: 
+$$k=\lceil (1-\alpha)(n+1) \rceil$$
 The issue is that *it is not computable from the first n points.*
 Our goal is to now show: $Y_{n+1} \le \tilde{Y}_{(k)} \iff Y_{n+1} \le Y_{(k)}$ which will make things computable.
 ![[conformal-prediction/attachments/01-finite-sample-coverage.png]]

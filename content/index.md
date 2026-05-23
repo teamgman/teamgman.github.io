@@ -18,4 +18,3 @@ Below, you will find a growing digital archive of my technical notes, algorithm 
 - [[technical-notes/index|Technical Notes]]
 - [[conformal-prediction/index|Conformal Prediction Notes]]
 - [Conformal Prediction Visualizers](https://gavinxiong.com/conformal-prediction-visualizers/)
-- 
