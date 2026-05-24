@@ -1,3 +1,21 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+/* The Nuclear Math Centering Fix */
+div.katex-display, 
+.katex-display,
+p:has(.katex-display) {
+  display: grid !important;
+  place-items: center !important;
+  text-align: center !important;
+  width: 100% !important;
+  margin: 1.5rem auto !important;
+  clear: both !important;
+}
+
+/* Force the inner equation engine to align center */
+.katex-display > .katex {
+  text-align: center !important;
+  display: inline-block !important;
+  margin: 0 auto !important;
+}
