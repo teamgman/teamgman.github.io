@@ -26,7 +26,9 @@ If $\alpha < 1/(n+1)$, then $k = n+1$ as we only accounted for the $k=n$ case.
 The $n+1$ smallest is out of bounds in $D_{n}$ thus define $\hat{q}_{n}=+\infty$ which gives us $100\%$ coverage.
 
 To compute this, the $k$-th historical order statistic $Y_{(k)}$ is formally defined via the empirical quantile function of the training sample *which has has not been proved yet.*
+
 $$\hat{q}_n = Y_{(k)}=\text{Quantile}\left(\frac{\lceil(1 - \alpha)(n + 1)\rceil}{n}; \frac{1}{n} \sum_{i=1}^{n} \delta_{Y_i}\right)$$
+
 ---
 If we also assume there are no ties, we obtain:
 $$\mathbb{P}(Y_{n+1} \le \hat{q}_n) \in \left[1-\alpha, \, 1-\alpha + \frac{1}{n+1}\right)$$

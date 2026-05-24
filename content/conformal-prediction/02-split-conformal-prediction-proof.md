@@ -17,6 +17,7 @@ Let $D$ be partitioned into two non-overlapping sets:
 
 Compute calibration residuals:
 $$R_i = V(X_i, Y_i) = |Y_i - f(X_i)| \quad \text{for } i \in D_2$$
+
 $$\text{Data Points } (X_i, Y_i) \sim \text{i.i.d.} \implies \text{Residuals } R_i \sim \text{Exchangeable}$$
 By sorting the calibration residuals ($R_{(1)} < R_{(2)} < \dots < R_{(n_2)}$) and choosing index $k = \lceil(1-\alpha)(n_2+1)\rceil$, exchangeability guarantees:
 $$\mathbb{P}\left( V(X_{n+1}, Y_{n+1}) \le R_{(k)} \right) \ge 1-\alpha$$
@@ -24,6 +25,7 @@ The prediction set constructed with this out-of-sample threshold $R_{(k)}$ yield
 $$\hat{C}_n(X_{n+1}) = \left[ f(X_{n+1}) - R_{(k)}, \; f(X_{n+1}) + R_{(k)} \right]$$
 The upper bound of the coverage only holds if there are no ties (the no-ties condition):
 $$\mathbb{P}\left( Y_{n+1} \in \hat{C}_n(X_{n+1}) \;\middle|\; (X_i, Y_i), i \in D_1 \right) \in \left[ 1 - \alpha, \; 1 - \alpha + \frac{1}{n_2 + 1} \right)$$
+
 ---
 ### Score Functions
 We can use any score function as long as it treats data symmetrically. The metric $V(x,y)$ is a **conformity score function** that quantifies how poorly a label $y$ fits an input $x$ given a frozen predictor $\hat{f}_{n_1}$.
