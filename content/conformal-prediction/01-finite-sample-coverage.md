@@ -55,5 +55,4 @@ $$
 
 ---
 **Current Status:** Verified that $\mathbb{P}(Y_{n+1} \le \tilde{Y}_{(k)}) = \mathbb{P}(Y_{n+1} \le Y_{(k)})$ for all $k \le n+1$.
-
 **Next Objective:** Derive the mechanics of the empirical distribution function (ECDF) to prove that this specific quantile formulation maps bijectively back to the sorted index $Y_{(k)}$.
