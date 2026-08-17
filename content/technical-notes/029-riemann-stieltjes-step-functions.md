@@ -1,5 +1,5 @@
 ---
-title: 029 ; Analysis ; Riemann-Stieltjes Integration Against Step Functions
+title: "Riemann-Stieltjes Integration Against Step Functions"
 aliases:
   - 029 ; Analysis ; Riemann-Stieltjes Integration Against Step Functions
 created: 2026-04-04

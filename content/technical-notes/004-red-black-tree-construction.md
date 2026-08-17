@@ -1,5 +1,5 @@
 ---
-title: 004 ; DSA ; Linear-time RBT Construction from Sorted List
+title: "Linear-time RBT Construction from Sorted List"
 created: 2026-02-16
 aliases:
   - 004 ; DSA ; Linear-time RBT Construction from Sorted List

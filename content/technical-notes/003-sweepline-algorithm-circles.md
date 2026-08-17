@@ -1,5 +1,5 @@
 ---
-title: 003 ; DSA ; Overlap Detection with Sweep Line Algorithm
+title: "Overlap Detection with Sweep Line Algorithm"
 created: 2026-02-10
 aliases:
   - 003 ; DSA ; Overlap Detection with Sweep Line Algorithm

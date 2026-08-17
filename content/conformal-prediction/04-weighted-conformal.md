@@ -1,5 +1,5 @@
 ---
-title: 04 ; Weighted Full and Split Conformal Prediction
+title: "Weighted Full and Split Conformal Prediction"
 aliases:
   - 04 ; Weighted Full and Split Conformal Prediction
 created: 2026-06-14

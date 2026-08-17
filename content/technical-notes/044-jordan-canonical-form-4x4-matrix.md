@@ -1,5 +1,5 @@
 ---
-title: 044 ; LinAlg ; Computing the Jordan Canonical Form and Modal Matrix of a 4x4 Matrix
+title: "Computing the Jordan Canonical Form and Modal Matrix of a 4x4 Matrix"
 aliases: 044 ; LinAlg ; Computing the Jordan Canonical Form and Modal Matrix of a 4x4 Matrix
 created: 2026-04-28
 ---

@@ -1,5 +1,5 @@
 ---
-title: 03 ; The P-Value Interpretation of Full Conformal Prediction
+title: "The P-Value Interpretation of Full Conformal Prediction"
 aliases:
   - 03 ; The P-Value Interpretation of Full Conformal Prediction
 created: 2026-05-20

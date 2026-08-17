@@ -1,8 +1,6 @@
 ---
 title: The Convex Hull Problem
 created: 2026-01-17
-aliases:
-  - Merge Hull Algorithm
 ---
 Pre-sorting makes designing the algorithm substantially easier to design however makes the worst case $O(\log n)$ as well while in the MergeHull algorithm below, it may frequently be much faster as it prunes many points.
 

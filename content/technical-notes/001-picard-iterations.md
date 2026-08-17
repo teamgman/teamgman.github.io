@@ -1,5 +1,5 @@
 ---
-title: 001 ; ODEs ; Picard Iteration ; Cauchy-Lipschitz
+title: "Picard Iteration - Cauchy-Lipschitz"
 created: 2026-01-26
 aliases:
   - 001 ; ODEs ; Picard Iteration ; Cauchy-Lipschitz

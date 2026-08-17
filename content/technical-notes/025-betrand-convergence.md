@@ -1,5 +1,5 @@
 ---
-title: 025 ; Analysis ; Bertrand's Convergence Test and Telescoping Series Bounds
+title: "Bertrand's Convergence Test and Telescoping Series Bounds"
 aliases:
   - 025 ; Analysis ; Bertrand's Convergence Test and Telescoping Series Bounds
 created: 2026-03-25

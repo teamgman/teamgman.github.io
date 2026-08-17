@@ -1,5 +1,5 @@
 ---
-title: 017 ; ODEs ; Homogenous First-Order Linear Systems
+title: "Homogenous First-Order Linear Systems"
 created: 2026-03-10
 aliases:
   - 017 ; ODEs ; Homogenous First-Order Linear Systems

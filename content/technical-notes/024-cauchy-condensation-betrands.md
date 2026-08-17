@@ -1,5 +1,5 @@
 ---
-title: 024 ; Analysis ; Cauchy Condensation Test and Generalized Bertrand Series
+title: "Cauchy Condensation Test and Generalized Bertrand Series"
 aliases:
   - 024 ; Analysis ; Cauchy Condensation Test and Generalized Bertrand Series
 created: 2026-03-23

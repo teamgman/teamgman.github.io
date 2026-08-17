@@ -1,5 +1,5 @@
 ---
-title: 030 ; Analysis ; Reduction of Riemann-Stieltjes Integrals to Riemann Integrals
+title: "Reduction of Riemann-Stieltjes Integrals to Riemann Integrals"
 aliases:
   - 030 ; Analysis ; Reduction of Riemann-Stieltjes Integrals to Riemann Integrals
 created: 2026-04-06

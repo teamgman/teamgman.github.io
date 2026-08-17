@@ -1,5 +1,5 @@
 ---
-title: 022 ; DSA ; Proving Optimality and Designing Huffman Encoding Algorithm
+title: "Proving Optimality and Designing Huffman Encoding Algorithm"
 aliases:
   - 022 ; DSA ; Proving Optimality and Designing Huffman Encoding Algorithm
 created: 2026-03-17

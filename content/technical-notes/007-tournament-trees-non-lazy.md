@@ -1,5 +1,5 @@
 ---
-title: 007 ; DSA ; Non-lazy Deletion in Tournament Trees
+title: "Non-lazy Deletion in Tournament Trees"
 created: 2026-02-28
 aliases:
   - 007 ; DSA ; Non-lazy Deletion in Tournament Trees.

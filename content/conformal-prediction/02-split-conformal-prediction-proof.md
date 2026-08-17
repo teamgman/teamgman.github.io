@@ -1,5 +1,5 @@
 ---
-title: 02 ; Equivalence of Finite-Sample Quantile and Counting Predicates for Split Conformal Prediction
+title: "Equivalence of Finite-Sample Quantile and Counting Predicates for Split Conformal Prediction"
 aliases:
   - 02 ; Equivalence of Finite-Sample Quantile and Counting Predicates for Split Conformal Prediction
 created: 2026-05-11

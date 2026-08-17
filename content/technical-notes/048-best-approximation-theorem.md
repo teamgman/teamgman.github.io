@@ -1,6 +1,6 @@
 ---
 created: 2026-04-29
-title: 048 ; LinAlg ; Best Approximation Theorem for Orthogonal Projections
+title: "Best Approximation Theorem for Orthogonal Projections"
 aliases:
   - 048 ; LinAlg ; Best Approximation Theorem for Orthogonal Projections
 ---

@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: Gavin
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -78,7 +78,7 @@ plugins:
     enabled: true
     order: 40
   - source: "@quartz-community/table-of-contents"
-    enabled: true
+    enabled: false
     order: 50
     layout:
       position: right
@@ -86,7 +86,7 @@ plugins:
   - source: "@quartz-community/crawl-links"
     enabled: true
     options:
-      markdownLinkResolution: shortest
+      markdownLinkResolution: absolute
     order: 60
   - source: "@quartz-community/description"
     enabled: true
@@ -111,7 +111,7 @@ plugins:
   - source: "@quartz-community/quartz-fonts"
     enabled: true
   - source: "@quartz-themes/core"
-    enabled: true
+    enabled: false
     options:
       theme: default
       mode: both
@@ -141,8 +141,8 @@ plugins:
   - source: "@quartz-community/content-index"
     enabled: true
     options:
-      enableSiteMap: true
-      enableRSS: true
+      enableSiteMap: false
+      enableRSS: false
   - source: "@quartz-community/favicon"
     enabled: true
   - source: "@quartz-community/og-image"
@@ -155,15 +155,19 @@ plugins:
     enabled: true
   - source: "@quartz-community/folder-page"
     enabled: true
+    options:
+      showFolderCount: false
   - source: "@quartz-community/tag-page"
     enabled: true
+    options:
+      showSubfolders: false
   - source: "@quartz-community/explorer"
-    enabled: true
+    enabled: false
     layout:
       position: left
       priority: 50
   - source: "@quartz-community/graph"
-    enabled: true
+    enabled: false
     layout:
       position: right
       priority: 10
@@ -176,7 +180,7 @@ plugins:
       groupOptions:
         grow: true
   - source: "@quartz-community/backlinks"
-    enabled: true
+    enabled: false
     layout:
       position: right
       priority: 50
@@ -227,7 +231,7 @@ plugins:
       position: afterBody
       priority: 10
   - source: "@quartz-community/footer"
-    enabled: true
+    enabled: false
     options:
       links:
         GitHub: https://github.com/jackyzha0/quartz
@@ -258,7 +262,7 @@ plugins:
         - tags
         - aliases
       excludedProperties: []
-      hidePropertiesView: false
+      hidePropertiesView: true
       delimiters: ---
       language: yaml
     order: 5

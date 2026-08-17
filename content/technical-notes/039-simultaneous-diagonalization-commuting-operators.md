@@ -1,5 +1,5 @@
 ---
-title: 039 ; LinAlg ; Simultaneous Diagonalization of Commuting Linear Transformations
+title: "Simultaneous Diagonalization of Commuting Linear Transformations"
 aliases: 039 ; LinAlg ; Simultaneous Diagonalization of Commuting Linear Transformations
 created: 2026-04-23
 ---

@@ -1,5 +1,5 @@
 ---
-title: 012 ; Analysis ; Fixed Points on Compact Spaces
+title: "Fixed Points on Compact Spaces"
 created: 2026-03-05
 aliases:
   - 012 ; Analysis ; Fixed Points on Compact Spaces

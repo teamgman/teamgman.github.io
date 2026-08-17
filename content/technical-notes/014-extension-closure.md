@@ -1,5 +1,5 @@
 ---
-title: 014 ; Analysis ; Cauchy Sequences and Functions on the Closure
+title: "Cauchy Sequences and Functions on the Closure"
 aliases:
   - 014 ; Analysis ; Cauchy Sequences and Functions on the Closure
 created: 2026-03-07

@@ -1,5 +1,5 @@
 ---
-title: 01 ; Finite-sample Validity of Distribution-free Prediction Intervals
+title: "Finite-sample Validity of Distribution-free Prediction Intervals"
 aliases:
   - 01 ; Finite-sample Validity of Distribution-free Prediction Intervals
 created: 2026-05-09

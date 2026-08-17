@@ -1,5 +1,5 @@
 ---
-title: 035 ; Analysis ; Integral Comparison Test for the Bertrand Series
+title: "Integral Comparison Test for the Bertrand Series"
 aliases: 035 ; Analysis ; Integral Comparison Test for the Bertrand Series
 created: 2026-04-16
 ---

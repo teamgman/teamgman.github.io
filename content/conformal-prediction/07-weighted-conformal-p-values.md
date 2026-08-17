@@ -1,5 +1,5 @@
 ---
-title: 07 ; Conformal selection under covariate shift
+title: "Conformal selection under covariate shift"
 created: 2026-07-17
 ---
 Recall that exchangeability doesn't usually hold in real-world conditions due to the issue of distribution shift — the most common type is covariate shift. Thus the previous framework of conformal p-values will no longer hold.

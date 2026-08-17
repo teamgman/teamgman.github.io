@@ -1,3 +1,54 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+// 1. Hide auto-generated folder listing on index pages and inside hover popover previews
+.popover-hint:has(article) .page-listing,
+body[data-slug$="/index"] .page-listing,
+body[data-slug="index"] .page-listing,
+.popover .page-listing {
+  display: none !important;
+}
+
+body[data-slug="index"] .content-meta {
+  display: none;
+}
+
+// 2. Clean left-docked sidebar with fluid reading canvas
+@media all and ($desktop) {
+  .page > #quartz-body {
+    grid-template-columns: 240px minmax(0, 800px) !important;
+    column-gap: 4.5rem !important;
+    justify-content: start !important;
+    padding-left: 3.5rem !important;
+    padding-right: 2rem !important;
+    grid-template-areas:
+      "grid-sidebar-left grid-header"
+      "grid-sidebar-left grid-center"
+      "grid-sidebar-left grid-footer" !important;
+  }
+
+  .page > #quartz-body .sidebar.left {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+
+  .page > #quartz-body .sidebar.right {
+    display: none !important;
+  }
+}
+
+// 3. Subtle academic identity block in left sidebar
+.sidebar.left .page-title {
+  margin-bottom: 0.4rem;
+}
+
+.sidebar.left .page-title::after {
+  content: "Joint Honours Math & CS @ McGill\A Research @ McGill";
+  white-space: pre-wrap;
+  display: block;
+  font-size: 0.95rem;
+  font-weight: 400;
+  font-family: var(--bodyFont);
+  line-height: 1.5;
+  color: var(--darkgray);
+  margin-top: 0.45rem;
+}

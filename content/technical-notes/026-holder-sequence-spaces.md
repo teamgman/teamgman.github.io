@@ -1,5 +1,5 @@
 ---
-title: 026 ; Analysis ; Hölder's Inequality for Sequence Spaces and Absolute Convergence
+title: "Hölder's Inequality for Sequence Spaces and Absolute Convergence"
 aliases:
   - 026 ; Analysis ; Hölder's Inequality for Sequence Spaces and Absolute Convergence
 created: 2026-03-27

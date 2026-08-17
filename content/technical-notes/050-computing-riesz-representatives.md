@@ -1,6 +1,6 @@
 ---
 created: 2026-04-30
-title: 050 ; LinAlg ; Computing Riesz Representatives on Polynomial Spaces
+title: "Computing Riesz Representatives on Polynomial Spaces"
 aliases:
   - 050 ; LinAlg ; Computing Riesz Representatives on Polynomial Spaces
 ---

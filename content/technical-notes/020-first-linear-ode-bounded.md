@@ -1,5 +1,5 @@
 ---
-title: 020 ; ODEs ; Solving First-order Linear Equations
+title: "Solving First-order Linear Equations"
 aliases:
   - 020 ; ODEs ; Solving First-order Linear Equations
 created: 2026-03-11

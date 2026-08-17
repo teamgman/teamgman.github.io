@@ -1,5 +1,5 @@
 ---
-title: 033 ; Analysis ; Proving Convexity of Functions Using Taylor's Theorem
+title: "Proving Convexity of Functions Using Taylor's Theorem"
 aliases:
   - 033 ; Analysis ; Proving Convexity of Functions Using Taylor's Theorem
 created: 2026-04-13

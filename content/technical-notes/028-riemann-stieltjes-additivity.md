@@ -1,5 +1,5 @@
 ---
-title: 028 ; Analysis ; Domain Additivity of Riemann-Stieltjes Integrals
+title: "Domain Additivity of Riemann-Stieltjes Integrals"
 aliases:
   - 028 ; Analysis ; Domain Additivity of Riemann-Stieltjes Integrals
 created: 2026-04-02

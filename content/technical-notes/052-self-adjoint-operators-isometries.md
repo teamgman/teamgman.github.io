@@ -1,6 +1,6 @@
 ---
 created: 2026-05-01
-title: 052 ; LinAlg ; Self-Adjoint Operators and Characterization of Isometries
+title: "Self-Adjoint Operators and Characterization of Isometries"
 aliases:
   - 052 ; LinAlg ; Self-Adjoint Operators and Characterization of Isometries
 ---

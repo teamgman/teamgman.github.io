@@ -1,5 +1,5 @@
 ---
-title: 042 ; LinAlg ; Jordan Canonical Form of the Transpose Map over Finite Fields
+title: "Jordan Canonical Form of the Transpose Map over Finite Fields"
 aliases: 042 ; LinAlg ; Jordan Canonical Form of the Transpose Map over Finite Fields
 created: 2026-04-26
 ---

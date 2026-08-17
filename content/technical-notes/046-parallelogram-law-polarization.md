@@ -1,6 +1,6 @@
 ---
 created: 2026-04-28
-title: 046 ; LinAlg ; Parallelogram Law and Polarization Identity
+title: "Parallelogram Law and Polarization Identity"
 aliases:
   - 046 ; LinAlg ; Parallelogram Law and Polarization Identity
 ---

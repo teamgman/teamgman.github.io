@@ -1,5 +1,5 @@
 ---
-title: 023 ; Analysis ; Completeness of Normed Vector Spaces via Absolutely Converging Series
+title: "Completeness of Normed Vector Spaces via Absolutely Converging Series"
 aliases:
   - 023 ; Analysis ; Completeness of Normed Vector Spaces via Absolutely Converging Series
 created: 2026-03-21

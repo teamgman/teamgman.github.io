@@ -1,5 +1,5 @@
 ---
-title: 013 ; Analysis ; Geometric Series with Matrix Norm
+title: "Geometric Series with Matrix Norm"
 aliases:
   - 013 ; Analysis ; Geometric Series with Matrix Norm
 created: 2026-03-06

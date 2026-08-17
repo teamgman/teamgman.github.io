@@ -1,5 +1,5 @@
 ---
-title: 05 ; Conformal Selection ; Conformal P-Values
+title: "Conformal P-Values"
 created: 2026-06-28
 aliases:
   - 05 ; Conformal Selection ; Conformal P-Values

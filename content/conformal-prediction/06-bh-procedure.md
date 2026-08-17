@@ -1,6 +1,5 @@
 ---
-title:
-  - 06 ; Conformal Selection ; Benjamini-Hochberg Procedure
+title: "Benjamini-Hochberg Procedure"
 aliases:
   - 06 ; Conformal Selection ; Benjamini-Hochberg Procedure
 created: 2026-07-08

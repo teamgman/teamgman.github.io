@@ -1,5 +1,5 @@
 ---
-title: 036 ; Analysis ; Integral Representations of the Riemann Zeta Function
+title: "Integral Representations of the Riemann Zeta Function"
 aliases:
   - 036 ; Analysis ; Integral Representations of the Riemann Zeta Function
 created: 2026-04-20

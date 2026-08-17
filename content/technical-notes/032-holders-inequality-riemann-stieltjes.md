@@ -1,5 +1,5 @@
 ---
-title: 032 ; Analysis ; Hölder's Inequality for Riemann-Stieltjes Integrals
+title: "Hölder's Inequality for Riemann-Stieltjes Integrals"
 aliases:
   - 032 ; Analysis ; Hölder's Inequality for Riemann-Stieltjes Integrals
 created: 2026-04-11

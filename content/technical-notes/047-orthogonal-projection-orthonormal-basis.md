@@ -1,6 +1,6 @@
 ---
 created: 2026-04-29
-title: 047 ; LinAlg ; Orthogonal Projection Operators via Orthonormal Bases
+title: "Orthogonal Projection Operators via Orthonormal Bases"
 aliases:
   - 047 ; LinAlg ; Orthogonal Projection Operators via Orthonormal Bases
 ---

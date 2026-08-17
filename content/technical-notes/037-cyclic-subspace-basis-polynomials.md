@@ -1,5 +1,5 @@
 ---
-title: 037 ; LinAlg ; Basis and Polynomials of a Cyclic Subspace
+title: "Basis and Polynomials of a Cyclic Subspace"
 aliases: 037 ; LinAlg ; Basis and Polynomials of a Cyclic Subspace
 created: 2026-04-21
 ---

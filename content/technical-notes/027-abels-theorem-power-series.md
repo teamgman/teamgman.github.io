@@ -1,5 +1,5 @@
 ---
-title: 027 ; Analysis ; Summation by Parts and Abel's Theorem for Power Series
+title: "Summation by Parts and Abel's Theorem for Power Series"
 aliases:
   - 027 ; Analysis ; Summation by Parts and Abel's Theorem for Power Series
 created: 2026-03-30

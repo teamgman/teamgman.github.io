@@ -1,5 +1,5 @@
 ---
-title: 018 ; ODEs ; Homogenous Defective First-order Linear System
+title: "Homogenous Defective First-order Linear System"
 aliases:
   - 018 ; ODEs ; Homogenous Defective First-order Linear System
 created: 2026-03-10

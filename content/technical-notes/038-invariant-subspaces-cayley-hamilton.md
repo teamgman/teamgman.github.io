@@ -1,5 +1,5 @@
 ---
-title: 038 ; LinAlg ; T-Invariant Subspaces and Cayley-Hamilton Theorem via Cyclic Subspaces
+title: "T-Invariant Subspaces and Cayley-Hamilton Theorem via Cyclic Subspaces"
 aliases: 038 ; LinAlg ; T-Invariant Subspaces and Cayley-Hamilton Theorem via Cyclic Subspaces
 created: 2026-04-22
 ---

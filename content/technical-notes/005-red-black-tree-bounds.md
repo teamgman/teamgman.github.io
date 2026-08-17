@@ -1,5 +1,5 @@
 ---
-title: 005 ; DSA ; Upper Bounds on Red Nodes in a Red-Black tree
+title: "Upper Bounds on Red Nodes in a Red-Black tree"
 created: 2026-02-23
 aliases:
   - 005 ; DSA ; Upper Bounds on Red Nodes in a Red-Black tree

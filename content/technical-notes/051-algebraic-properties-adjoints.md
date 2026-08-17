@@ -1,6 +1,6 @@
 ---
 created: 2026-05-01
-title: 051 ; LinAlg ; Algebraic Properties of Adjoint Operators
+title: "Algebraic Properties of Adjoint Operators"
 aliases:
   - 051 ; LinAlg ; Algebraic Properties of Adjoint Operators
 ---
