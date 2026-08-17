@@ -1,0 +1,7 @@
+---
+title: 005 ; DSA ; Upper Bounds on Red Nodes in a Red-Black tree
+created: 2026-02-23
+aliases:
+  - 005 ; DSA ; Upper Bounds on Red Nodes in a Red-Black tree
+---
+![[technical-notes/attachments/05-red-black-tree-theory.png]]
