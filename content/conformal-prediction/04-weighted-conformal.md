@@ -1,8 +1,8 @@
 ---
-title: 04 ; Weighted Full and Split Conformal Prediction  
+title: 04 ; Weighted Full and Split Conformal Prediction
 aliases:
-  - 04 ; Weighted Full and Split Conformal Prediction  
-created: 2026-06-02
+  - 04 ; Weighted Full and Split Conformal Prediction
+created: 2026-06-14
 ---
 For conformal prediction, the guarantee of marginal coverage relies strictly on the assumption that the data is exchangeable, which does not hold in real-world conditions; this is called the covariate shift problem.
 
@@ -59,7 +59,7 @@ R_{i}=V(Z_{i};Z_{1},\dots,Z_{n+1}),\quad i=1,\dots ,n+1,
 $$
 where $V$ is an arbitrary non-conformity score function and is symmetric in its last $n+1$ arguments.
 
-Define.
+*Define.*
 ![[conformal-prediction/attachments/04-weighted-05.png]]
 
 Finally, for any target error level $\alpha \in (0, 1)$, the coverage probability is guaranteed by:
