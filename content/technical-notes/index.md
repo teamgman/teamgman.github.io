@@ -3,7 +3,7 @@ created: 2026-02-02
 title: Technical Notes
 ---
 
-A curated archive of 52 self-contained mathematical derivations, theorem proofs, and algorithmic designs.
+A curated archive of 54 self-contained mathematical derivations, theorem proofs, and algorithmic designs.
 
 ### Linear Algebra & Matrix Theory
 
@@ -74,3 +74,5 @@ A curated archive of 52 self-contained mathematical derivations, theorem proofs,
 - [[technical-notes/007-tournament-trees-non-lazy|Non-Lazy Deletion in Tournament Trees]]
 - [[technical-notes/021-amortized-analysis-dequeue|Designing Deque for O(1) Amortized Time]]
 - [[technical-notes/022-huffman-tree-optimality|Proving Optimality and Designing Huffman Encoding Algorithm]]
+- [[technical-notes/053-the-cut-lemma|The Cut Lemma]]
+- [[technical-notes/054-max-flow-min-cut-theorem|Max-Flow Min-Cut Theorem]]

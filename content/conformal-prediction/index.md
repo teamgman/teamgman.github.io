@@ -3,7 +3,7 @@ title: Conformal Prediction Notes
 created: 2025-05-04
 ---
 
-A pedagogical series on the theoretical foundations of distribution-free uncertainty quantification and conformal selection.
+A series on the theoretical foundations of distribution-free uncertainty quantification and conformal selection.
 
 1. [[conformal-prediction/01-finite-sample-coverage|Finite-Sample Validity of Distribution-Free Prediction Intervals]]
 2. [[conformal-prediction/02-split-conformal-prediction-proof|Equivalence of Finite-Sample Quantile and Counting Predicates for Split Conformal Prediction]]

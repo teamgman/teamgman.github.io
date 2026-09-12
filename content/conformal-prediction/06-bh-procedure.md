@@ -22,5 +22,5 @@ In addition, controlling the FDR requires p-values to be either independent or t
 *Define.*
 **PRDS**: A random vector $X = (X_1, \dots, X_m)$ is PRDS on a subset $\mathcal{I}$ if for any $i \in \mathcal{I}$ and any increasing set $D$, the probability $\mathbb{P}(X \in D \mid X_i = x)$ is increasing in $x$.
 
-*proofs saved for later.*
+*proof for later regarding p-values are PRDS*
 
