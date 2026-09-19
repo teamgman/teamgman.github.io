@@ -22,6 +22,7 @@ Below, you will find a growing digital archive of my technical notes, algorithm 
 
 ### **Selected Archives & Projects**
 
+- [[talks|Talks]]
 - [[conformal-prediction/index|Conformal Prediction Notes]]
 - [[technical-notes/index|Technical Notes Archive]]
 - [[merge-hull-algorithm|Merge Hull Algorithm]]
